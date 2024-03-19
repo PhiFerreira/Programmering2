@@ -1,0 +1,7 @@
+﻿  Template_klasser.cpp
+C:\Users\jeppe\Desktop\Alt\Skole\USN\2023-2024\2.semester\01. Prog2\VS\Template_klasser\Template_klasser\Template_klasser.cpp(16,15): warning C4267: '=': conversion from 'size_t' to 'T', possible loss of data
+C:\Users\jeppe\Desktop\Alt\Skole\USN\2023-2024\2.semester\01. Prog2\VS\Template_klasser\Template_klasser\Template_klasser.cpp(16,15): warning C4267:         with
+C:\Users\jeppe\Desktop\Alt\Skole\USN\2023-2024\2.semester\01. Prog2\VS\Template_klasser\Template_klasser\Template_klasser.cpp(16,15): warning C4267:         [
+C:\Users\jeppe\Desktop\Alt\Skole\USN\2023-2024\2.semester\01. Prog2\VS\Template_klasser\Template_klasser\Template_klasser.cpp(16,15): warning C4267:             T=int
+C:\Users\jeppe\Desktop\Alt\Skole\USN\2023-2024\2.semester\01. Prog2\VS\Template_klasser\Template_klasser\Template_klasser.cpp(16,15): warning C4267:         ]
+  Template_klasser.vcxproj -> C:\Users\jeppe\Desktop\Alt\Skole\USN\2023-2024\2.semester\01. Prog2\VS\Template_klasser\x64\Debug\Template_klasser.exe
